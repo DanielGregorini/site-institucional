@@ -1,11 +1,9 @@
 import './index.css'
 
 function App() {
-
-
   return (
    
-      <div>
+      <div className=''>
         site
       </div>
   )
